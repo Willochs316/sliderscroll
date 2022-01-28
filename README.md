@@ -1,2 +1,2 @@
-# sliderscroll
+# SillySlider
 Created with CodeSandbox
